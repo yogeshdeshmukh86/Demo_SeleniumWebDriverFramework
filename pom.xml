@@ -4,6 +4,13 @@
   <artifactId>imp-ui-automation</artifactId>
   <version>0.1-SNAPSHOT</version>
   <name>imp-ui-automation</name>
+   <dependencies>
+    <dependency>
+    <groupId>com.codeborne</groupId>
+    <artifactId>phantomjsdriver</artifactId>
+    <version>1.2.1</version>
+</dependency>
+</dependencies>
   <description>UI Automation using selenium webdriver</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
