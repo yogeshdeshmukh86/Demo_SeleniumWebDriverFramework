@@ -1,7 +1,9 @@
 Demo_SeleniumWebDriverFramework 🚀
+
 A modular and data-driven automation framework built using Java + Selenium WebDriver. This project supports cross-browser testing, integrates with TestNG, JUnit, and Jenkins, and leverages Excel-based keyword-driven data for flexible test execution. Ideal for scalable UI testing and CI/CD pipelines.
 
 🧰 Features
+
 🔹 Keyword-driven and data-driven architecture
 
 🔹 Browser compatibility: Chrome, Firefox, Safari, IE, PhantomJS
@@ -15,6 +17,7 @@ A modular and data-driven automation framework built using Java + Selenium WebDr
 🔹 Supports CI pipelines for automated execution
 
 🧪 Tech Stack
+
 Java
 
 Selenium WebDriver
@@ -24,6 +27,11 @@ Apache POI (Excel)
 TestNG / JUnit
 
 Jenkins
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EF4035?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 The Framework uses open source Selenium Webdriver for executing automated scripts.
