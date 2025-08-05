@@ -93,11 +93,9 @@ Step 3: Update the test data file present according to your test scripts path.
 
 TEST EXECUTION:
 
-"RUN" The Testcases by clicking as junit or Testng from any java ide ( eclipse)
+"RUN" The Testcases by clicking as junit or Testng from any java ide ( eclipse, VS code )
 
 This Framework can be also intergrated with Jenkins CI and run in headless mode.
 
-For details refer Quick start guide for selenium framework
 
-
-
+For setup instructions and usage details, please refer to the 👉 SeleniumFramework_Quick_Start_Guide_V1.doc
